@@ -1,2 +1,2 @@
-print("")[D[Dhi[C")
+print("hi")
 print("hello")
